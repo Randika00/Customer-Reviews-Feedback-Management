@@ -1,0 +1,42 @@
+export const MenuItems =[
+    {
+        title:'Home',
+        url:'#',
+        cName:'nav-links'
+    },
+    {
+        title:'Shop',
+        url:'#',
+        cName:'nav-links'
+    },
+    {
+        title:'Appoinments',
+        url:'#',
+        cName:'nav-links'
+    },
+    {
+        title:'Staff',
+        url:'#',
+        cName:'nav-links'
+    },
+    {
+        title:'E-Training',
+        url:'#',
+        cName:'nav-links'
+    },
+    {
+        title:'Reviews',
+        url:'#',
+        cName:'nav-links'
+    },
+    {
+        title:'Inventory',
+        url:'#',
+        cName:'nav-links'
+    },
+    {
+        title:'Sign Up',
+        url:'#',
+        cName:'nav-links-mobile'
+    }
+]
