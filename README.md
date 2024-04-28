@@ -47,8 +47,6 @@ Here are a few key functions of a Customer Review & Feedback Management System:
 
   <img alt="Hashnode logo" src="https://raw.githubusercontent.com/Group-52/DineMate-2.0/dev/public/assets/images/logos/logo_Full%20Logo.svg" height="100">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Randika00/Customer-Reviews-Feedback-Management">
-  
 </picture>
 
 <p>
