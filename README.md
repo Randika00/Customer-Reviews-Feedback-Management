@@ -37,7 +37,6 @@ Here are a few key functions of a Customer Review & Feedback Management System:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Workflow](https://img.shields.io/github/actions/workflow/status/Group-52/DineMate-2.0/deploy.yaml?branch=main&style=flat)
-![Website](https://img.shields.io/website?url=http%3A%2F%2F18.183.143.228%2F)
 ![Last Commit](https://img.shields.io/github/last-commit/Group-52/DineMate-2.0)
 
 
