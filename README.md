@@ -45,7 +45,7 @@ Here are a few key functions of a Customer Review & Feedback Management System:
 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Group-52/DineMate-2.0/dev/public/assets/images/logos/logo_Full%20Logo.svg">
 
-  <img alt="Hashnode logo" src="https://raw.githubusercontent.com/Group-52/DineMate-2.0/Randika00/public/assets/images/logos/logo_Full%20Logo.svg" height="100">
+  <img alt="Hashnode logo" src="https://raw.githubusercontent.com/Group-52/DineMate-2.0/dev/public/assets/images/logos/logo_Full%20Logo.svg" height="100">
 
 </picture>
 
