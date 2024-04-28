@@ -37,8 +37,8 @@ Here are a few key functions of a Customer Review & Feedback Management System:
 ### 🏷️ Technologies used - MERN Stack
       ✅ M -  MongoDB - document database
       ✅ E -  Express(.js) — Node.js web framework
-      ✅ R -  React(.js) — a client-side JavaScript framework    
-      ✅ N -  Node(.js) — the premier JavaScript web server
+      ✅ R -  React(.js) — A client-side JavaScript framework    
+      ✅ N -  Node(.js) — The premier JavaScript web server
 
 <p>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Randika00/Customer-Reviews-Feedback-Management">
