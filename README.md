@@ -16,8 +16,9 @@ and beyond with a live chat option, ensuring instant assistance and support for 
 
 From leveraging tools like Visual Studio Code for seamless development to harnessing the power of Postman for API testing and incorporating AJAX libraries for enhanced interactivity 
 – every decision was made with user-centricity in mind.meticulously crafted using a fusion of cutting-edge technologies. Utilizing HTML5, CSS, PHP, jQuery, Bootstrap, and JavaScript, 
-I've engineered a seamless user experience that sets the benchmark for excellence in the fitness industry. 
+Visual Studio Code as the development IDE.I've engineered a seamless user experience that sets the benchmark for excellence in the fitness industry. 
 Where every voice is heard, and every feedback is valued. Together, let's embark on a journey towards fitness excellence! 💪
+
 
 
 
