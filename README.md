@@ -39,6 +39,16 @@ Here are a few key functions of a Customer Review & Feedback Management System:
 ![Workflow](https://img.shields.io/github/actions/workflow/status/Group-52/DineMate-2.0/deploy.yaml?branch=main&style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/Group-52/DineMate-2.0)
 
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Group-52/DineMate-2.0/dev/public/assets/images/logos/logo_Full%20Logo%20White_Full%20Logo%20White.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Group-52/DineMate-2.0/dev/public/assets/images/logos/logo_Full%20Logo.svg">
+
+  <img alt="Hashnode logo" src="https://raw.githubusercontent.com/Group-52/DineMate-2.0/dev/public/assets/images/logos/logo_Full%20Logo.svg" height="100">
+  
+</picture>
+
 
 
 
