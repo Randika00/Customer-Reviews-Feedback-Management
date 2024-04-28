@@ -22,6 +22,9 @@ Visual Studio Code as the development IDE.I've engineered a seamless user experi
 Where every voice is heard, and every feedback is valued. Together, let's embark on a journey towards fitness excellence! 💪
 
 
+![reveiew feedbacks](https://github.com/Randika00/Customer-Reviews-Feedback-Management/assets/89309192/e840b43a-efd0-4755-b8e5-fb6180bd7b7d)
+
+
 
 
   
