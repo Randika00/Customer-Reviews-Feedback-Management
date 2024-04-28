@@ -34,6 +34,10 @@ Here are a few key functions of a Customer Review & Feedback Management System:
           * Reporting and Analytics: Provide analytics tools to track and analyze review trends.
           * Notification System: Implement a notification system to alert administrators of new reviews and feedback submissions.
 
+<p>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Randika00/Customer-Reviews-Feedback-Management">
+</p>
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Workflow](https://img.shields.io/github/actions/workflow/status/Group-52/DineMate-2.0/deploy.yaml?branch=main&style=flat)
@@ -49,9 +53,7 @@ Here are a few key functions of a Customer Review & Feedback Management System:
 
 </picture>
 
-<p>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Randika00/Customer-Reviews-Feedback-Management">
-</p>
+
 
 
 
