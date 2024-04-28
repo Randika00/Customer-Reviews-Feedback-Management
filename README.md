@@ -50,7 +50,7 @@ Here are a few key functions of a Customer Review & Feedback Management System:
 </picture>
 
 <p>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/anusaraweerasooriya/ITPM-Solar-Solutions-Management-System">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/anusaraweerasooriya/Customer-Reviews-Feedback-Management">
 </p>
 
 
