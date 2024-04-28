@@ -26,12 +26,13 @@ Where every voice is heard, and every feedback is valued. Together, let's embark
 
 Here are a few key functions of a Customer Review & Feedback Management System:
 
- * Reservation Calendar
- * Housekeeping Management
- * Payment Processing
- * Online Booking Engine
- * Guest Management
- * Control Dashboard 
+              * Review Submission: Allow customers to submit reviews for various aspects.
+              * Star Rating System: Providing a quick and visual way for customers to express their satisfaction levels.
+              * Review Moderation: Provide an admin interface to moderate and manage all incoming reviews.
+              * Feedback Submission: Enable customers to submit general feedback or suggestions through a separate form.
+              * Email Integration: Integrate email functionality to notify customers when their reviews have been received.
+              * Reporting and Analytics: Provide analytics tools to track and analyze review trends.
+              * Notification System: Implement a notification system to alert administrators of new reviews and feedback submissions.
 
 
 
