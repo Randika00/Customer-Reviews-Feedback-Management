@@ -1,4 +1,5 @@
 ## Customer-Reviews & Feedback-Management
+`JavaScript` `jQuery` `PHP` `MongoDB` `Bootstrap` `CSS` `REST APi` `MERN Stack Fremework`
 🌟 Elevate Your Fitness Experience: Introducing a cutting-edge Customer Review & Feedback Management System within our Fitness Management Platform! 🏋️‍♂️
 
 A CFMS is a software platform or solution designed to facilitate the collection, analysis, and management of customer feedback &amp; reviews.
