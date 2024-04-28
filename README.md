@@ -40,6 +40,13 @@ Here are a few key functions of a Customer Review & Feedback Management System:
       ✅ R -  React(.js) — A client-side JavaScript framework    
       ✅ N -  Node(.js) — The premier JavaScript web server
 
+<p align ="center">
+<a href = "https://www.mongodb.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
+<a href = "https://expressjs.com/"><img src="https://img.icons8.com/office/48/null/express-js.png"/>
+<a href = "https://reactjs.org/"><img src="https://img.icons8.com/office/48/null/react.png"/>
+<a herf = "https://nodejs.org/en/"> <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
+</p>
+
 <p>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Randika00/Customer-Reviews-Feedback-Management">
 </p>
