@@ -34,6 +34,12 @@ Here are a few key functions of a Customer Review & Feedback Management System:
           * Reporting and Analytics: Provide analytics tools to track and analyze review trends.
           * Notification System: Implement a notification system to alert administrators of new reviews and feedback submissions.
 
+### 🏷️ Technologies used - MERN Stack
+      ✅ M -  MongoDB - document database
+      ✅ E -  Express(.js) — Node.js web framework
+      ✅ R -  React(.js) — a client-side JavaScript framework    
+      ✅ N -  Node(.js) — the premier JavaScript web server
+
 <p>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Randika00/Customer-Reviews-Feedback-Management">
 </p>
