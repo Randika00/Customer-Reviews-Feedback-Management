@@ -24,6 +24,15 @@ Where every voice is heard, and every feedback is valued. Together, let's embark
 
 ![reveiew feedbacks](https://github.com/Randika00/Customer-Reviews-Feedback-Management/assets/89309192/e840b43a-efd0-4755-b8e5-fb6180bd7b7d)
 
+Here are a few key functions of a Customer Review & Feedback Management System:
+
+ * Reservation Calendar
+ * Housekeeping Management
+ * Payment Processing
+ * Online Booking Engine
+ * Guest Management
+ * Control Dashboard 
+
 
 
 
